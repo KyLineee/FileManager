@@ -26,5 +26,5 @@ Java-приложение «**Файловый менеджер**» — это �
 - **SQLite + JDBC** — лёгкая СУБД на сервере
 - **NetBeans** — IDE
 ## Скриншоты работы
-![alt text]("/FileManager/Screenshot/LogInToTheFileManager.png")
-![alt text]("/FileManager/Screenshot/TheMainWindowOfTheFileManager.png")
+![alt text](/FileManager/Screenshot/LogInToTheFileManager.png)
+![alt text](/FileManager/Screenshot/TheMainWindowOfTheFileManager.png)
